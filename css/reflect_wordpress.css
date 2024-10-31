@@ -1,0 +1,84 @@
+#reflected .rf_clarification {
+	color: #222;
+}
+button.add_bullet {
+  font-size: 14px;
+}
+
+#reflected .ctext {
+	clear: both;
+}
+
+#reflected .bullet_author {
+	display: none;
+}
+
+#reflected a.user {
+	vertical-align: middle;
+}
+
+#reflected .rf_comment_wrapper .rf_comment_summary {
+	width: 250px;
+}
+
+#reflected .rf_comment_text_wrapper, #reflected .rf_comment_summary {
+	vertical-align: top;
+	display: inline-block;
+}
+
+#reflected li.be_neutral {
+	font-size: 85%;
+	
+}
+
+#reflected .new_bullet_text {
+	margin-top: 3px;
+}
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.new_bullet .bullet_main ul.bullet_main_wrapper li.new_bullet_prompt, 
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.connect .bullet_main ul.bullet_main_wrapper li.new_bullet_prompt, 
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.modify .bullet_main ul.bullet_main_wrapper li.new_bullet_prompt {
+	margin-left: 38px;	
+}
+
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.new_bullet .bullet_main ul.bullet_main_wrapper li.bullet_dialog table.new_bullet_wrapper, 
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.connect .bullet_main ul.bullet_main_wrapper li.bullet_dialog table.new_bullet_wrapper, 
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet.modify .bullet_main ul.bullet_main_wrapper li.bullet_dialog table.new_bullet_wrapper {
+	width: 98%;
+}
+
+
+#reflected .rf_comment_wrapper .rf_comment_summary ul.bullet_list li.bullet .bullet_main ul.bullet_main_wrapper li.bullet_point img {
+	width: 30px;
+}
+
+#reflected div.comment_summary {
+	position:relative;
+}
+
+.commentlist li {
+	background:transparent;
+}
+
+#main {
+  overflow:visible;
+}
+
+#reflected .comment_summary ul {
+	width: 100%;	
+}
+
+#reflected .comment_summary li {
+	width: auto;
+	background: inherit;
+}
+
+#reflected table, 
+#reflected th, 
+#reflected td {
+	border:none;
+}
+
+#reflected .bullet .rf_evaluation .badges .rf_rating .rf_gallery_container div, #reflected .bullet .rf_evaluation .badges .rf_rating .rf_selector_container .rf_selector, .rate_bullet .rate_bullet_dialog .flag .rating_class {
+	
+	background-image: url("../media/reflect_sprite.png");
+}
